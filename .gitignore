@@ -1,0 +1,6 @@
+_analysis_notebook_cells/
+_ref_ani_downloader/
+_ref_animepahe/
+generate_notebook.py
+__pycache__/
+*.pyc
