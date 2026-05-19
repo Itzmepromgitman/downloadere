@@ -1,6 +1,6 @@
 # 😈 AnimePahe Soul Harvester (Colab Edition) 🦇
 
-A sinfully fast, elegant Jupyter Notebook to devour episodes from AnimePahe, merge them into your collection, and banish them to the cloud. 
+A sinfully fast, elegant Jupyter Notebook to devour episodes from AnimePahe, merge them into your collection, and banish them to the cloud.
 
 This notebook wraps the powerful `animepahe-dl` script directly within Google Colab, leveraging the pristine and premium UI of Ani-Downloader for maximum efficiency and aesthetic dominance.
 
@@ -20,3 +20,4 @@ This notebook wraps the powerful `animepahe-dl` script directly within Google Co
 
 ---
 *Disclaimer: For personal/educational use only. Do not use for commercial or infringing purposes.*
+
